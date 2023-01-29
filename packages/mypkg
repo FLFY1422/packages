@@ -1,0 +1,1 @@
+$_pkg({"defaultNamespace":"mypkg"});$_file({originFileBaseName:"test"}),$({builder(e){return"hello world"}});
